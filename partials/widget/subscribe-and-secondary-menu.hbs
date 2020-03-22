@@ -1,5 +1,5 @@
 {{!-- Email subscribe form at the Top of the page --}}
-{{#if @labs.members}}
+{{#unless @labs.members}}
 
 <div class="subscribeBanner">
     <div class="container">
@@ -18,7 +18,7 @@
     </div>
 </div>
 
-{{/if}}
+{{/unless}}
 
 {{!-- secondary Navigation or category --}}
 <div class="secondaryMenu u-paddingTop20 u-paddingBottom20">
@@ -27,7 +27,7 @@
         {{navigation type="secondary"}}
     {{else}}
         {{!-- Tags Cloud Menu or category --}}
-        {{#get "tags" limit="6" include="count.posts" order="count.posts desc" as |category_nav|}}
+        {{#get "tags" limit="10" include="count.posts" order="count.posts desc" as |category_nav|}}
         {{#if category_nav}}
             <ul class="nav">
                 <li>{{#link href="/" activeClass="nav-current"}}{{t "All"}}{{/link}}</li>
