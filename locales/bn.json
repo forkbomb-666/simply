@@ -10,7 +10,7 @@
     "A collection of posts": "পোস্ট সমূহ",
     "A collection of 1 post": "একটি পোস্ট",
     "A collection of % posts": "কতকগুলি % পোস্ট",
-    "Get the best viral stories straight into your inbox!": "জনপ্রিয় পোস্টগুলি আপনার ইনবক্সে পান",
+    "Get the best viral stories straight into your inbox!": "জনপ্রিয় ও নতুন পোস্টগুলি আপনার ইনবক্সে পান",
     "Latest Posts": "সাম্প্রতিক পোস্টগুলি",
     "No posts": "কোনো পোস্ট নেই",
     "Read more": "আরও পড়ুন",
@@ -52,5 +52,6 @@
     "Listen": "শুনুন",
     "Related <span class='text-success'>Articles</span>": "প্রাসঙ্গিক <span class='text-success'>লেখাগুলি</span>",
     "Please enter a valid email address!": "দয়া করে আপনার সঠিক ইমেল আইডি দিন",
-    "<strong>Great!</strong> Check your inbox and click the link to confirm your subscription": "<strong>ধন্যবাদ!</strong> আপনার সাবস্ক্রিপশানটি নিশ্চিত করতে আপনার ই-মেইল ইনবক্স দেখুন এবং লিঙ্কে ক্লিক করুন"
+    "<strong>Great!</strong> Check your inbox and click the link to confirm your subscription": "<strong>ধন্যবাদ!</strong> আপনার সাবস্ক্রিপশানটি নিশ্চিত করতে আপনার ই-মেইল ইনবক্স দেখুন এবং লিঙ্কে ক্লিক করুন",
+    "Tags": "বিভাগসমূহ"
 }
